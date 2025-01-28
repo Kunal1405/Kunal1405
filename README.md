@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in backe
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kunal-sangwan/)  
-- 📧 Email: kunal.sangwan@example.com (replace with your email)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kunal-sangwan-4a7580217/)  
+- 📧 Email: kunalsangwan0980@gmail.com  
 
 ---
 
