@@ -39,8 +39,8 @@
 
 > root@kunalsangwan:~$ skills --list
 🔥 Java, Spring Boot, Microservices, Hibernate
-⚡ MySQL, REST APIs, System Design
-🚀 Docker, Kubernetes, CI/CD Pipelines
+⚡ MySQL, REST APIs, 
+🚀 Docker
 💻 JavaScript, HTML, CSS
 
 > root@kunalsangwan:~$ echo "Executing Clean & Scalable Code..."
