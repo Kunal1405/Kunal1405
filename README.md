@@ -45,3 +45,21 @@
 
 > root@kunalsangwan:~$ echo "Executing Clean & Scalable Code..."
 ✔ Success! No Bugs Found. Deployed 🚀
+```
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal-sangwan-4a7580217/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kunalsangwan0980@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💀 **Code Hard. Build Strong. Never Settle.** 💀
